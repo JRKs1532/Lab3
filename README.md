@@ -10,3 +10,6 @@
 
 
 https://github.com/JRKs1532
+
+
+<span style="color: #FF0000">Red text</span>, <span style="color: #00FF00">green text</span>, and <span style="color: #0000FF">blue text</span>.
